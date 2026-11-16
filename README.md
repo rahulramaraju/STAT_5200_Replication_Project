@@ -1,4 +1,5 @@
-## Approximate reproduction
+## Paper Replication
+
 
 This project implements a computationally smaller version of Bi and Traum’s
 “Estimating Fiscal Limits: The Case of Greece” ([Journal of Applied Econometrics, 2014](https://doi.org/10.1002/jae.2401)).
